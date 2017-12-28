@@ -4,7 +4,7 @@
       "version": "alpha-1",
       "update": {
         "checksum": "8274425de767b30b2fff1124ab54abb5",
-        "url": "https://cdn.statev.de/update/update.rpf"
+        "url": "https://github.com/domenikjones/statev-assets/blob/master/update/update.rpf"
       },
       "dlcpacks": [
         {
