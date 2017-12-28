@@ -1,34 +1,34 @@
-﻿[
-  {
-    "version": "alpha",
-    "author": "StateV - Domenik Jones",
-    "website": "https://www.statev.de/",
-    "update": {
-      "checksum": "123456",
-      "path": "https://cdn.statev.de/update.zip"
-    },
-    "dlcpacks": [
-      {
-        "name": "default",
+﻿{
+  "versions": [
+    {
+      "version": "alpha",
+      "update": {
         "checksum": "123456",
-        "path": "https://cdn.statev.de/dlc_01.zip"
-      }
-    ]
-  },
-  {
-    "version": "0.1",
-    "author": "StateV - Domenik Jones",
-    "website": "https://www.statev.de/",
-    "update": {
-      "checksum": "123456",
-      "path": "https://cdn.statev.de/update.zip"
+        "url": "https://cdn.statev.de/update.zip"
+      },
+      "dlcpacks": [
+        {
+          "name": "default",
+          "checksum": "123456",
+          "url": "https://cdn.statev.de/dlc_01.zip"
+        }
+      ]
     },
-    "dlcpacks": [
-      {
-        "name": "default",
+    {
+      "version": "0.1",
+      "author": "StateV - Domenik Jones",
+      "website": "https://www.statev.de/",
+      "update": {
         "checksum": "123456",
-        "path": "https://cdn.statev.de/dlc_01.zip"
-      }
-    ]
-  }
-]
+        "url": "https://cdn.statev.de/update.zip"
+      },
+      "dlcpacks": [
+        {
+          "name": "default",
+          "checksum": "123456",
+          "url": "https://cdn.statev.de/dlc_01.zip"
+        }
+      ]
+    }
+  ]
+}
