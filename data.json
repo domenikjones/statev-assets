@@ -10,12 +10,12 @@
         {
           "name": "default",
           "checksum": "123456",
-          "url": "https://cdn.statev.de/dlcpacks/default/update.rpf"
+          "url": "https://raw.githubusercontent.com/domenikjones/statev-assets/master/dlcpacks/default/update.rpf"
         },
         {
           "name": "emergency",
           "checksum": "123456",
-          "url": "https://cdn.statev.de/dlcpacks/emergency/update.rpf"
+          "url": "https://raw.githubusercontent.com/domenikjones/statev-assets/master/dlcpacks/emergency/update.rpf"
         }
       ]
     }
