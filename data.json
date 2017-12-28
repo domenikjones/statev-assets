@@ -4,29 +4,18 @@
       "version": "alpha-1",
       "update": {
         "checksum": "123456",
-        "url": "https://cdn.statev.de/update.zip"
+        "url": "https://cdn.statev.de/update/update.rpf"
       },
       "dlcpacks": [
         {
           "name": "default",
           "checksum": "123456",
-          "url": "https://cdn.statev.de/dlc_01.zip"
-        }
-      ]
-    },
-    {
-      "version": "0.1",
-      "author": "StateV - Domenik Jones",
-      "website": "https://www.statev.de/",
-      "update": {
-        "checksum": "123456",
-        "url": "https://cdn.statev.de/update.zip"
-      },
-      "dlcpacks": [
+          "url": "https://cdn.statev.de/dlcpacks/default/update.rpf"
+        },
         {
-          "name": "default",
+          "name": "emergency",
           "checksum": "123456",
-          "url": "https://cdn.statev.de/dlc_01.zip"
+          "url": "https://cdn.statev.de/dlcpacks/emergency/update.rpf"
         }
       ]
     }
