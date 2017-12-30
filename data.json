@@ -3,18 +3,13 @@
     {
       "version": "alpha-1",
       "update": {
-        "checksum": "8274425de767b30b2fff1124ab54abb5",
+        "checksum": "a3d1b93f53bf9cc05d5c43e714855628",
         "url": "https://github.com/domenikjones/statev-assets/blob/master/update/update.rpf"
       },
       "dlcpacks": [
         {
-          "name": "default",
-          "checksum": "123456",
-          "url": "https://raw.githubusercontent.com/domenikjones/statev-assets/master/dlcpacks/default/update.rpf"
-        },
-        {
           "name": "emergency",
-          "checksum": "123456",
+          "checksum": "742794031796a0345cd3982a0e0deb12",
           "url": "https://raw.githubusercontent.com/domenikjones/statev-assets/master/dlcpacks/emergency/update.rpf"
         }
       ]
